@@ -3,8 +3,6 @@ library(MASS)
 library(survival)
 library(survminer)
 
-setwd('C:\\Users\\admin\\Desktop\\stat 504\\project 1')
-
 # read table
 
 data = read_excel("DataProject.xlsx")
