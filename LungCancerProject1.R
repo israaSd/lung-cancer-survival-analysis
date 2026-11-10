@@ -1,5 +1,3 @@
-setwd('C:\\Users\\admin\\Desktop\\stat 504\\project 1')
-
 # read table
 
 library(readxl)
